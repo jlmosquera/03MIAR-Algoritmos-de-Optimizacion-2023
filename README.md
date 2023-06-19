@@ -7,3 +7,5 @@
     Solución recursiva del problema de las Torres de Hanoi.
   2. Técnica Voraz. Algoritmos voraces (II) - (Greeady Algorithms) 
     Devolución del cambio de monedas dado un sistema monetario
+- Descenso del Gradiente - Jose Luis Mosquera - AG2.ipynb
+  1. Usando una tasa de aprendizaje constante
