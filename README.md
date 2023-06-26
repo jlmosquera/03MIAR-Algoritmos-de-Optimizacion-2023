@@ -9,3 +9,8 @@
     Devolución del cambio de monedas dado un sistema monetario
 - Descenso del Gradiente - Jose Luis Mosquera - AG2.ipynb
   1. Usando una tasa de aprendizaje constante
+- Algoritmos - Jose Luis Mosquera - AG3.ipynb
+  1. El problema de agente viajero (Librería TSLIB)
+     - Datos: Matriz de distancias swiss42.tsp.gz (repositorio: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/)
+  2. Búsqueda Aleatoria
+  3. Búsqueda Local
